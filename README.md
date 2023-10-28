@@ -23,7 +23,7 @@ halo saya Tiara, repo ini akan saya gunakan untuk catatan.
 ## Stepping out the door
 
 - [ ] ☁️ 1 > [AWS Clous Foundation chapter1](Journey/001/Readme.md)
-- [ ] ☁️ 2 > [AWS Cloud Foundation chapter 2](Journey/002/Readme.md)
+- [ ] ☁️ 2 > [AWS Cloud Foundation chapter 2 dan 3](Journey/002/Readme.md)
 - [ ] ☁️ 3 > [](Journey/003/Readme.md)
 - [ ] ☁️ 4 > [](Journey/004/Readme.md)
 - [ ] ☁️ 5 > [](Journey/005/Readme.md)
